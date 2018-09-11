@@ -10,4 +10,4 @@
 
 Original author: [便所糞虫 (@y_benjo) | Twitter](https://twitter.com/y_benjo) or [ybenjo (y_benjo)](https://github.com/ybenjo)
 
-Modified by funatsufumiya
+Updated by funatsufumiya
