@@ -2,7 +2,7 @@
 
 声優統計コーパスの音素バランス文に、ルビを付けたものです。
 
-[HTMLファイルのプレビュー](https://cdn.rawgit.com/funatsufumiya/balance_sentence_with_ruby/master/balance_sentence_with_ruby.html)
+- [HTMLファイルのプレビュー by rawgit.com](https://rawgit.com/funatsufumiya/balance_sentence_with_ruby/master/balance_sentence_with_ruby.html)
 
 ルビ振りには[でんでんエディター](https://edit.denshochan.com/)を使っており、txtファイルをでんでんエディターに読み込ませるとHTMLに変換できます。
 
