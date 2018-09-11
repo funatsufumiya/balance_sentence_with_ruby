@@ -1,6 +1,6 @@
 # 声優統計コーパス 音素バランス文 ルビ付き
 
-声優統計コーパスの音素バランス文に、ルビを付けたものです。
+[声優統計コーパス](https://voice-statistics.github.io/)の[音素バランス文](https://github.com/voice-statistics/voice-statistics.github.com/blob/master/assets/doc/balance_sentences.txt)に、ルビを付けたものです。
 
 - [HTMLファイルのプレビュー by rawgit.com](https://rawgit.com/funatsufumiya/balance_sentence_with_ruby/master/balance_sentence_with_ruby.html)
 
